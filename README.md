@@ -17,3 +17,7 @@ Topics:
 - Unit Testing
 - Mocking and Test Driven Development
 - Design Patterns
+
+Certificate:
+
+![C# OOP - June 2022 - Certificate](https://user-images.githubusercontent.com/72508846/186151784-99556cbf-06bf-4806-be61-289188328f43.jpeg)
