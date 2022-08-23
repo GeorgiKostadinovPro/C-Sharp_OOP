@@ -90,6 +90,7 @@ namespace BookingApp.Models.Hotels
                 this.rooms = value;
             }
         }
+        
         public IRepository<IBooking> Bookings 
         {
             get
