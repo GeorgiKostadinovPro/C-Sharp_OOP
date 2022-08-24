@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace BookingApp.Models.Rooms
+{
+    public class DoubleBed : Room
+    {
+        private const int InitialDoubleBedCapacity = 2;
+
+        public DoubleBed()
+            : base(InitialDoubleBedCapacity)
+        {
+        }
+    }
+}
