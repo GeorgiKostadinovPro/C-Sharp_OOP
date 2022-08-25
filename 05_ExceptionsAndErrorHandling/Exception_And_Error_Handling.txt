@@ -1,0 +1,1 @@
+In this repository there are 6 exercises from the Exception Handling Lab lecture.
