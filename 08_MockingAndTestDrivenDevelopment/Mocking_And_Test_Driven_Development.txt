@@ -1,0 +1,7 @@
+Mocking and Test Driven Development
+
+• Mocking;
+• Code and Test;
+• Test-Driven Development;
+• Reasons to use TDD;
+• Myths and Misconceptions about TDD.
