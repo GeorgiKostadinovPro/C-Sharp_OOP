@@ -1,4 +1,4 @@
-# Softuni_C#_OOP - June 2022
+# SoftUni_C#_OOP - June 2022
 This is a repository where I upload all my exercises, exams and certificates from the C# OOP module in Software University ( Sofia, Bulgaria ).
 
 C# OOP Exam - 300/300 points ( Structure - 50/50, Business Logic - 150/150, Unit Testing - 100/100 ).
