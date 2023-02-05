@@ -10,10 +10,12 @@ namespace BookingApp.Repositories
     public class BookingRepository : IRepository<IBooking>
     {
         private readonly ICollection<IBooking> models;
+        
         public BookingRepository()
         {
             this.models = new List<IBooking>();
         }
+        
         public void AddNew(IBooking model)
         {
             this.models.Add(model);
