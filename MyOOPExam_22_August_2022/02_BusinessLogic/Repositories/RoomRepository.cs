@@ -10,6 +10,7 @@ namespace BookingApp.Repositories
     public class RoomRepository : IRepository<IRoom>
     {
         private readonly ICollection<IRoom> models;
+        
         public RoomRepository()
         {
             this.models = new List<IRoom>();
